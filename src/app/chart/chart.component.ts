@@ -1,5 +1,5 @@
-import { Component, OnInit, Input } from '@angular/core';
 import * as d3 from 'd3';
+import { Component, OnInit, Input } from '@angular/core';
 
 @Component({
   selector: 'chart',
